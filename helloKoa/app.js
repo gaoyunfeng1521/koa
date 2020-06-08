@@ -14,6 +14,7 @@ app.use(async (ctx, next) => {
     await next();
     let userName=ctx.request.body.userName
     let password=ctx.request.body.password
+    
     // let namePass=ctx.request.body.namePass
     console.log("userName:"+userName);
     console.log("password:"+password);
