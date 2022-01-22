@@ -31,7 +31,7 @@
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.0.1",
     "request": "^2.88.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "main": "app.js",
   "directories": {
